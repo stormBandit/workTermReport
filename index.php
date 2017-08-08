@@ -1,6 +1,6 @@
 <HTML xmlns="http://www.w3.org/1999/html">
     <HEAD>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/*">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </HEAD>
@@ -9,7 +9,8 @@
 
     <body>
 
-        <nav class="headerNavBar">
+        <nav class="navbar navbar-default">
+
             <div class="toolBarButton-wrapper"> <form method="post" action="login.php"> <button type="submit" class="toolBarButton">Home</button> </form> </div>
             <div class="toolBarButton-wrapper"> <form method="post"> <button formaction="#newsfeed" class="toolBarButton">Newsfeed</button> </form> </div>
             <div class="toolBarButton-wrapper"> <form method="post"> <button formaction="#messages" class="toolBarButton">Messages</button> </form> </div>
