@@ -7,10 +7,11 @@
 
         <!-- Portfolio Item Heading -->
         <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">Dalton Polhill
-                    <small>Coop Workterm Reports</small>
-                </h1>
+            <div class="span4">
+                <img style="float:right" src="images/UoG.jpg"/>
+                <div class="content-heading"><h3>Dalton Polhill - Coop Work Term Report </h3></div>
+                <p>The University of Guelph - Computer Science Department offers and amazing coop education program that I am glad to be apart of.</p>
+                <div style="clear:both"></div>
             </div>
         </div>
         <!-- /.row -->
@@ -24,8 +25,8 @@
 
             <div class="col-md-4">
                 <h3>University of Guelph Coop Program</h3>
-                <p>The University of Guelph - Computer Science Department offers and amazing coop education program that I am glad to be apart of.
-                </p>
+                <p>Hold</p>
+
                 <h3>Project Details</h3>
                 <ul>
                     <li>Lorem Ipsum</li>
@@ -90,7 +91,7 @@
 
     </div>
 
-<?php include("includes/footer.html"); ?>
+    <?php include("includes/footer.html"); ?>
 
 </body>
 
