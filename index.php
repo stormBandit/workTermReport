@@ -9,8 +9,8 @@
         <div class="row">
             <div class="span4">
                 <img style="float:right" src="images/UoG.jpg"/>
-                <div class="content-heading"><h3>Dalton Polhill - Coop Work Term Report </h3></div>
-                <p>The University of Guelph - Computer Science Department offers and amazing coop education program that I am glad to be apart of.</p>
+                <div class="content-heading "><h3>Dalton Polhill - Coop Work Term Report </h3></div>
+                <p class="page-header">The University of Guelph - Computer Science Department offers and amazing coop education program that I am glad to be apart of.</p>
                 <div style="clear:both"></div>
             </div>
         </div>
@@ -20,7 +20,7 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                <img class="img-responsive" src="http://placehold.it/250x250" alt="">
             </div>
 
             <div class="col-md-4">
