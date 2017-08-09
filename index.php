@@ -8,34 +8,14 @@
         <!-- Portfolio Item Heading -->
         <div class="row">
             <div class="span4">
-                <img style="float:right" src="images/UoG.jpg"/>
+                <img style="float:right; margin-left: 75px" class="img-responsive" src="http://placehold.it/250x250"/>
                 <div class="content-heading "><h3>Dalton Polhill - Coop Work Term Report </h3></div>
-                <p class="page-header">The University of Guelph - Computer Science Department offers and amazing coop education program that I am glad to be apart of.</p>
+                <p>The University of Guelph's Computer Science department offers an amazing cooperative education program that I am glad to be apart of.
+                    This is a website that I built as a report of my experiences in the coop program, describing my experiences
+                    at the various employers throughout my coop terms.
+                </p>
                 <div style="clear:both"></div>
             </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Portfolio Item Row -->
-        <div class="row">
-
-            <div class="col-md-8">
-                <img class="img-responsive" src="http://placehold.it/250x250" alt="">
-            </div>
-
-            <div class="col-md-4">
-                <h3>University of Guelph Coop Program</h3>
-                <p>Hold</p>
-
-                <h3>Project Details</h3>
-                <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Dolor Sit Amet</li>
-                    <li>Consectetur</li>
-                    <li>Adipiscing Elit</li>
-                </ul>
-            </div>
-
         </div>
         <!-- /.row -->
 
