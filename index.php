@@ -6,7 +6,7 @@
         <!-- Portfolio Item Heading -->
         <div class="row">
             <div class="span4">
-                <img style="float:right; margin-left: 75px" class="img-responsive" src="http://placehold.it/250x250"/>
+                <img style="float:right; margin-left: 75px" class="img-responsive" src="images/me.jpg"/>
                 <div class="content-heading "><h3>Dalton Polhill - Coop Work Term Report </h3></div>
                 <p>The University of Guelph's Computer Science department offers an amazing cooperative education program that I am glad to be apart of.
                     This is a website that I built as a report of my experiences in the coop program, describing my experiences
