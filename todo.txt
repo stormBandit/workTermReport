@@ -1,0 +1,2 @@
+-> add detail pages for the projects
+-> switch all 'coop' to 'co-op'
