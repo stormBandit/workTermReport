@@ -4,5 +4,3 @@
     <!-- <h1>LinkedIn: </h1> -->
 
 <?php include("includes/footer.html"); ?>
-</body>
-</html>

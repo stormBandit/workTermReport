@@ -4,6 +4,3 @@
     <h1>https://www.linkedin.com/company/tulip-retail</h1>
 
 <?php include("includes/footer.html"); ?>
-
-</body>
-</html>
