@@ -2,7 +2,7 @@
 
     <div class="container">
         <h1 class="pager">Dalton Polhill</h1>
-        <p class="pager">I am coop student at the university of Guelph, currently working towards a bachelors of computing
+        <p class="pager">I am co-op student at the university of Guelph, currently working towards a bachelors of computing
             with a major in Computer Science and a Minor in Business. I have just completed my first work term
             with Tulip Retail in Toronto. Throughout the 4 month work term I was able to use many of the skills I learned
             in the classroom to assist me in accomplishing tasks in timely manners.

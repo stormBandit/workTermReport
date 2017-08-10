@@ -7,10 +7,10 @@
         <div class="row">
             <div class="span4">
                 <img style="float:right; margin-left: 75px" class="img-responsive" src="images/me.jpg"/>
-                <div class="content-heading "><h3>Dalton Polhill - Coop Work Term Report </h3></div>
+                <div class="content-heading "><h3>Dalton Polhill - Co-op Work Term Report </h3></div>
                 <p>The University of Guelph's Computer Science department offers an amazing cooperative education program that I am glad to be apart of.
-                    This is a website that I built as a report of my experiences in the coop program, describing my experiences
-                    at the various employers throughout my coop terms.
+                    This is a website that I built as a report of my experiences in the co-op program, describing my experiences
+                    at the various employers throughout my co-op terms.
                 </p>
                 <div style="clear:both"></div>
             </div>
@@ -21,7 +21,7 @@
         <div class="row">
 
             <div class="col-lg-12">
-                <h3 class="page-header">Coop Placements</h3>
+                <h3 class="page-header">Co-op Placements</h3>
             </div>
 
             <div class="col-sm-3 col-xs-6">
