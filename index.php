@@ -21,7 +21,7 @@
         <div class="row">
 
             <div class="col-lg-12">
-                <h3 class="page-header">Co-op Placements</h3>
+                <h3 class="page-header">Co-op Positions</h3>
             </div>
 
             <div class="col-sm-3 col-xs-6">
