@@ -25,7 +25,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#tulip-retail">
+                <a href="tulip_about.php">
                     <h3 style="margin-top: -10px"><small>Term #1 - Summer 2017</small></h3>
                     <img class="img-responsive portfolio-item" src="images/tulip-retail.png" alt="">
                 </a>

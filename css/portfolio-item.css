@@ -17,3 +17,6 @@ footer {
     padding-bottom: 9px;
     border-top: 1px solid #eee;
 }
+.nav > li > a:hover {
+    background-color: #fa2d51;
+}
