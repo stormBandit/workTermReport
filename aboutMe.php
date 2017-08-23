@@ -28,7 +28,7 @@
 
             <div class="col-sm-3 col-xs-6">
                 <h3 style="margin-top: -10px"><small>SunFunder - Smart Car for Arduino</small></h3>
-                <a href="#smart-car-details">Project Details</a>
+                <a href="#smart-car-details" data-target="#smart-car-details" data-toggle="modal">Project Details</a>
                 <br>
                 <a href="https://github.com/stormBandit/juice-shop">See Project on Github</a>
                 <img class="img-responsive portfolio-item" src="images/sunfounder.jpeg" alt="">
@@ -44,18 +44,41 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">Juice Shop</h4>
+                    <h4 class="modal-title">OWASP - Juice Shop</h4>
                 </div>
                 <div class="modal-body">
-                    <p>Being a web application with 43 intended security vulnerabilities, the OWASP Juice Shop<br>
-                        is supposed to be the opposite of a best practice or template application for web developers:<br>
-                        It is an awareness, training, demonstration and exercise tool for security risks in modern<br>
-                        web applications. The OWASP Juice Shop is an open-source project hosted by the non-profit<br>
-                        pen Web Application Security Project (OWASP) and is developed and maintained by volunteers.<br>
-                        The content of this book was written for v5.0.0-SNAPSHOT of OWASP Juice Shop.<br>
+                    <p>The OWASP Juice Shop is a purposely vulnerable website meant to be a training tool for web security
+                        vulnerabilities, which include the OWASP top 10!
+                        Being a web application with 43 intended security vulnerabilities, the OWASP Juice Shop
+                        is supposed to be the opposite of a best practice or template application for web developers:
+                        It is an awareness, training, demonstration and exercise tool for security risks in modern
+                        web applications. The OWASP Juice Shop is an open-source project hosted by the non-profit
+                        pen Web Application Security Project (OWASP) and is developed and maintained by volunteers.
                     </p>
                 </div>
                 <div class="modal-footer">
+                    <a href="https://github.com/stormBandit/juice-shop" class="btn btn-default">See Project on Github</a>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="smart-car-details" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!--modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Sunfounder - Arduino Powered Smart Car</h4>
+                </div>
+                <div class="modal-body">
+                    <p>The power of the arduino is truly boundless, this project is an exercise in creativity. The kit
+                        includes
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <!-- <a href="https://github.com/stormBandit/juice-shop" class="btn btn-default">See Project on Github</a>  -->
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
