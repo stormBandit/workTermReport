@@ -1,5 +1,5 @@
 <div class="container">
-    <img class="page-header" src="images/">
+    <img class="img-responsive panel-heading" style="margin-bottom: 20px" src="images/tulip_logo.svg">
 
     <nav class="navbar" style="background-color: #F25E78; font: white" role="navigation">
         <div class="container" >
