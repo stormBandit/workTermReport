@@ -17,6 +17,9 @@
                         <li>
                             <a style="color: white" href="tulip_goals.php">Work Term Goals</a>
                         </li>
+                        <li>
+                            <a style="color: white" href="tulip_conclusion.php">Conclusion</a>
+                        </li>
                     </ul>
                 </div>
             </div>
