@@ -65,7 +65,12 @@
                             </a>
                             <div id="goal1-reflection" class="panel-body collapse">
                                 <p>
-                                    Nothing.
+                                    I believe I have come a long way with my own knowledge of many of the systems I
+                                    mentioned in my goal. I have a much better understanding of how websites work and
+                                    have expanded my knowdlege of PhP, MySql, javascript and css as I had hoped. I have
+                                    been building a website throughout this term  to use as both a training tool for
+                                    myself and a work term report to be graded for co-op. Being successful in this build
+                                    shows that I have accomplished my goal. 
                                 </p>
                             </div>
                         </li>
