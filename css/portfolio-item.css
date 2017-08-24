@@ -20,3 +20,7 @@ footer {
 .nav > li > a:hover {
     background-color: #fa2d51;
 }
+
+p{
+    font-size: medium;
+}
