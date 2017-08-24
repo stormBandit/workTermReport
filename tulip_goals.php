@@ -6,19 +6,19 @@
         <!-- Goal #1 -->
         <div class="panel-group" style="width: 750px;">
             <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" href="#collapse1">Goal #1 - Develop Knowledge of how websites work</a>
-                    </h4>
-                </div>
-                <div id="collapse1" class="panel-collapse collapse">
+                <a data-toggle="collapse" href="#Goal1">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">Goal #1 - Develop Knowledge of how websites work</h4>
+                    </div>
+                </a>
+                <div id="Goal1" class="panel-collapse collapse">
                     <ul class="list-group">
                         <li class="list-group-item">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#goal1-description">Goal</a>
-                                </h4>
-                            </div>
+                            <a data-toggle="collapse" data-parent="#accordion" href="#goal1-description">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Goal</h4>
+                                </div>
+                            </a>
                             <div id="goal1-description" class="panel-body collapse">
                                 <p>
                                     I would like to gain a much more indepth understanding of how web sites work with a
