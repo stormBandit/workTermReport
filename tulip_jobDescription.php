@@ -29,6 +29,10 @@
         During my 4 month co-op at Tulip I worked on a team which serviced the client <a href="https://well.ca">well.ca</a>
         the team consisted of myself, another co-op and our manager. The small team dynamic meant that we all had to
         be able to deal with all components of the very large and intricate website.
+        My Expectations:<br>
+        * Manage time effectively and complete tasks in a timely manner <br>
+        * Be able to understand complex systems, designed and implemented in a variety of ways <br>
+        * Communicate effectively with the team about ongoings <br>
     </p>
 </div>
 
