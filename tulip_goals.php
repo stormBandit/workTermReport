@@ -6,15 +6,17 @@
         <!-- Goal #1 -->
         <div class="panel-group" style="width: 750px;">
             <div class="panel panel-default">
-                <a data-toggle="collapse" href="#Goal1">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">Goal #1 - Develop Knowledge of how websites work</h4>
-                    </div>
-                </a>
+                <div class="panel-heading">
+                    <a class="noLink" data-toggle="collapse" href="#Goal1">
+                        <div>
+                            <h4 class="panel-title">Goal #1 - Develop Knowledge of how websites work</h4>
+                        </div>
+                    </a>
+                </div>
                 <div id="Goal1" class="panel-collapse collapse">
                     <ul class="list-group">
                         <li class="list-group-item">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#goal1-description">
+                            <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-description">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -29,11 +31,11 @@
                             </div>
                         </li>
                         <li class="list-group-item">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#goal1-action-plan">Action Plan</a>
-                                </h4>
-                            </div>
+                            <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-action-plan">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Action Plan</h4>
+                                </div>
+                            </a>
                             <div id="goal1-action-plan" class="panel-body collapse">
                                 <p>
                                     I will accomplish this goal by asking many questions to my manager and team, when I am
@@ -43,11 +45,11 @@
                             </div>
                         </li>
                         <li class="list-group-item">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#goal1-measure-success">Measure of Success</a>
-                                </h4>
-                            </div>
+                            <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-measure-success">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Measure of Success</h4>
+                                </div>
+                            </a>
                             <div id="goal1-measure-success" class="panel-body collapse">
                                 <p>
                                     I will measure this goal by building a simplistic website of my own and seeing how easily I
@@ -56,11 +58,11 @@
                             </div>
                         </li>
                         <li class="list-group-item">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#goal1-reflection">Reflection</a>
-                                </h4>
-                            </div>
+                            <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-reflection">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Reflection</h4>
+                                </div>
+                            </a>
                             <div id="goal1-reflection" class="panel-body collapse">
                                 <p>
                                     Nothing.

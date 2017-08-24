@@ -24,3 +24,15 @@ footer {
 p{
     font-size: medium;
 }
+
+a.noLink {
+    color: #000;
+}
+
+a.noLink:hover,
+a.noLink:after,
+a.noLink:visited,
+a.noLink:focus {
+    text-decoration: none;
+    color: #000;
+}
