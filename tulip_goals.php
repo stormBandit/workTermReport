@@ -386,7 +386,14 @@
                             </a>
                             <div id="goal5-reflection" class="panel-body collapse">
                                 <p>
-
+                                    If i am being honest, this is the goal that I feel I worked the least at during this term,
+                                    I did manage to read a few more articles and view a few more videos that were informative.
+                                    However I still found myself "saving them for later" often times and never actually
+                                    going back to read them. This is a tough goal, and I understand that it will come
+                                    in time and hopefully I will be able to find the time to expand this knowledge.
+                                    Extending on this goal, and adding in an action plan of finding time at least 2-3
+                                    times per week to sit down and start going through some of the content I found interesting
+                                    and "saved for later".
                                 </p>
                             </div>
                         </li>
