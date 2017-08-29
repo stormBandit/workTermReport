@@ -8,6 +8,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <a class="noLink" data-toggle="collapse" href="#Goal1">
+                        <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                         <div>
                             <h4 class="panel-title">Goal #1 - Develop Knowledge of how websites work</h4>
                         </div>
@@ -17,6 +18,7 @@
                     <ul class="list-group">
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-description">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -32,6 +34,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-action-plan">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Action Plan</h4>
                                 </div>
@@ -46,6 +49,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-measure-success">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Measure of Success</h4>
                                 </div>
@@ -59,6 +63,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal1-reflection">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Reflection</h4>
                                 </div>
@@ -84,6 +89,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <a class="noLink" data-toggle="collapse" href="#Goal2">
+                        <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                         <div>
                             <h4 class="panel-title">Goal #2 - Communicate more effectively</h4>
                         </div>
@@ -93,6 +99,7 @@
                     <ul class="list-group">
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal2-description">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -109,6 +116,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal2-action-plan">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Action Plan</h4>
                                 </div>
@@ -125,6 +133,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal2-measure-success">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Measure of Success</h4>
                                 </div>
@@ -140,6 +149,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal2-reflection">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Reflection</h4>
                                 </div>
@@ -165,6 +175,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <a class="noLink" data-toggle="collapse" href="#Goal3">
+                        <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                         <div>
                             <h4 class="panel-title">Goal #3 - Code reading and comprehension</h4>
                         </div>
@@ -174,6 +185,7 @@
                     <ul class="list-group">
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal3-description">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -190,6 +202,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal3-action-plan">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Action Plan</h4>
                                 </div>
@@ -204,6 +217,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal3-measure-success">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Measure of Success</h4>
                                 </div>
@@ -219,6 +233,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal3-reflection">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Reflection</h4>
                                 </div>
@@ -246,6 +261,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <a class="noLink" data-toggle="collapse" href="#Goal4">
+                        <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                         <div>
                             <h4 class="panel-title">Goal #4 - Learn why...</h4>
                         </div>
@@ -255,6 +271,7 @@
                     <ul class="list-group">
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal4-description">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -269,6 +286,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal4-action-plan">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Action Plan</h4>
                                 </div>
@@ -284,6 +302,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal4-measure-success">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Measure of Success</h4>
                                 </div>
@@ -299,6 +318,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal4-reflection">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Reflection</h4>
                                 </div>
@@ -326,6 +346,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <a class="noLink" data-toggle="collapse" href="#Goal5">
+                        <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                         <div>
                             <h4 class="panel-title">Goal #5 - Being more independent</h4>
                         </div>
@@ -335,6 +356,7 @@
                     <ul class="list-group">
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal5-description">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Goal</h4>
                                 </div>
@@ -353,6 +375,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal5-action-plan">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Action Plan</h4>
                                 </div>
@@ -366,6 +389,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal5-measure-success">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Measure of Success</h4>
                                 </div>
@@ -380,6 +404,7 @@
                         </li>
                         <li class="list-group-item">
                             <a class="noLink" data-toggle="collapse" data-parent="#accordion" href="#goal5-reflection">
+                                <span class="glyphicon glyphicon-collapse-down pull-right"></span>
                                 <div class="panel-heading">
                                     <h4 class="panel-title">Reflection</h4>
                                 </div>
