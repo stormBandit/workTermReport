@@ -10,7 +10,13 @@
                 <div class="content-heading "><h3>Dalton Polhill - Co-op Work Term Report </h3></div>
                 <p>The University of Guelph's Computer Science department offers an amazing cooperative education program that I am glad to be apart of.
                     This is a website that I built as a report of my experiences in the co-op program, describing my experiences
-                    at the various employers throughout my co-op terms.
+                    at the various employers throughout my co-op terms. This site is also meant to be a learning tool
+                    for myself, to learn how to build a website with various components. Throughout the years, as I add
+                    to the site I hope to increase the complexity of it and implement new features to expand my knowledge
+                    of web development. As a computer science student I strive to understand the inner working of
+                    computer systems and a large part of that is understanding the small parts that make up a system.
+                    I feel that in order to fully understand complex web systems it is important to understand the basic
+                    tools used to develop web systems.
                 </p>
                 <div style="clear:both"></div>
             </div>
