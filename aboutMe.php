@@ -3,13 +3,39 @@
     <div class="container">
         <h1 class="pager">Dalton Polhill</h1>
         <p class="pager">I am co-op student at the university of Guelph, currently working towards a bachelors of computing
-            with a major in Computer Science and a Minor in Business. I have just completed my first work term
-            with Tulip Retail in Toronto. Throughout the 4 month work term I was able to use many of the skills I learned
-            in the classroom to assist me in accomplishing tasks in timely manners.
-            I had an opportunity to apply my knowledge in a hands on environment, which I feel is extremely
-            valuable and will help me grow in my career.
-            I hope to use my future work terms to try out new areas of the industry and expand my knowledge,
-            I have a particular interest in cyber security, hardware, artificial intelligence systems and code optimizations.
+            with a major in Computer Science and a Minor in Business. I have just completed my first three work terms, which 
+            have given me an abundance of real world industry experience.
+        </p>
+        <br>
+        <p class="pager">
+            I completed my first 4 month coop term at Tulip Retail in Toronto where I was able to use many of the skills I 
+            learned in the classroom in real world scenarios and gain an insight to what the software development industry was 
+            actually like. I had an opportunity to apply my knowledge in a hands on environment, which I feel is extremely
+            valuable and will help me grow in my career. I spent a lot of time at Tulip working closely with the client, which
+            was very exciting for me, and taught me a lot about how to conduct myself professionally in this industry. As well 
+            I worked closely with a lot of different technologies that I had never been introduced to during school, such as docker
+            and databases (which I wouldn't be taught in school until 4th year).
+        </p>
+        <br>
+        <p class="pager">
+            I moved on to Brock Solutions for my second work term in hopes to experience different types of work enviroments
+            and to gain more industry knowledge. This move allowed me expand my comfort zone into a completely different industry
+            and sharpen a completely different set of skills. At Brock Solutions I was much more involved in creating automation
+            tools and using complex algorithms to solve real world, real-time problems.
+        </p>
+        <br>
+        <p class="pager">
+            For my third coop work term I travelled to a completely different sector of the industry, start ups. Revyoome is, 
+            in every way, a start up company. I was literally employee number 1 at the company, and helped the 
+            CEO pick out the laptops we would be using to develop the project. This was an incredible experience for me, as I 
+            was given the opportunity to be the project manager and senior technical leader. This was the most unique opportunity 
+            for many reasons, the fact that I was able to make design decisions before any code was even written, make decisions
+            about how we would build the backend and even design the database. 
+        </p>
+        <br>
+        <p class="pager">
+            I hope to use my future work terms to try out new areas of the industry and expand my knowledge even further,
+            I have a particular interest in cyber security, artificial intelligence systems and code optimizations.
         </p>
 
         <!-- Related Projects Row -->
